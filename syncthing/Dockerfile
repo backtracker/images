@@ -1,0 +1,1 @@
+FROM syncthing/syncthing:latest

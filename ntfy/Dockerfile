@@ -1,0 +1,1 @@
+FROM binwiederhier/ntfy:latest

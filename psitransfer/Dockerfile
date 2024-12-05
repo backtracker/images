@@ -1,0 +1,1 @@
+FROM psitrax/psitransfer:latest
