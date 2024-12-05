@@ -1,0 +1,1 @@
+FROM jockerhub.us.kg/redis:alpine

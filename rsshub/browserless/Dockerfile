@@ -1,0 +1,1 @@
+FROM jockerhub.us.kg/browserless/chrome:latest
