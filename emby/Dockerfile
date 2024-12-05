@@ -1,1 +1,1 @@
-FROM emby/embyserver:latest
+FROM jockerhub.us.kg/emby/embyserver:latest
