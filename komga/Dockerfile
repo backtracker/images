@@ -1,1 +1,1 @@
-FROM gotson/komga:latest
+FROM jockerhub.us.kg/gotson/komga:latest

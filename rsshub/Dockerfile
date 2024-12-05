@@ -1,1 +1,1 @@
-FROM diygod/rsshub:latest
+FROM jockerhub.us.kg/diygod/rsshub:latest

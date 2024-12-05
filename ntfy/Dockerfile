@@ -1,1 +1,1 @@
-FROM binwiederhier/ntfy:latest
+FROM jockerhub.us.kg/binwiederhier/ntfy:latest

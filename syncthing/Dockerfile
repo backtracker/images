@@ -1,1 +1,1 @@
-FROM syncthing/syncthing:latest
+FROM jockerhub.us.kg/syncthing/syncthing:latest
