@@ -1,1 +1,1 @@
-FROM jockerhub.us.kg/browserless/chrome:latest
+FROM browserless/chrome:latest

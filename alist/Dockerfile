@@ -1,1 +1,1 @@
-FROM jockerhub.us.kg/xhofe/alist:latest
+FROM xhofe/alist:latest

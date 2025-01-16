@@ -1,1 +1,1 @@
-FROM jockerhub.us.kg/psitrax/psitransfer:latest
+FROM psitrax/psitransfer:latest

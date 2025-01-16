@@ -1,1 +1,1 @@
-FROM jockerhub.us.kg/linuxserver/freshrss:latest
+FROM linuxserver/freshrss:latest

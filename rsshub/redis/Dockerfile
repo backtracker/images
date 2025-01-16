@@ -1,1 +1,1 @@
-FROM jockerhub.us.kg/redis:alpine
+FROM redis:alpine
