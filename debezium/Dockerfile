@@ -1,1 +1,1 @@
-FROM debezium/debezium-ui:1.9
+FROM dockerpull.cn/debezium/debezium-ui:1.9
