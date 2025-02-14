@@ -1,0 +1,1 @@
+FROM jvmilazz0/kavita:latest
