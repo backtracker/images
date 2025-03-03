@@ -1,1 +1,1 @@
-FROM ghcr.io/imagegenius/immich:latest
+FROM  ghcr.io/immich-app/immich-server:release
