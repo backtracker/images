@@ -1,1 +1,1 @@
-FROM ghcr.io/immich-app/immich-server:latest
+FROM ghcr.io/imagegenius/immich:latest
