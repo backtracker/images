@@ -1,1 +1,1 @@
-FROM dockerpull.cn/emby/embyserver:latest
+FROM emby/embyserver:latest
