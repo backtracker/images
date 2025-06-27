@@ -1,0 +1,1 @@
+FROM ghcr.io/immich-app/postgres:14-vectorchord0.3.0-pgvectors0.2.0
