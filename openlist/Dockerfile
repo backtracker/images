@@ -1,1 +1,1 @@
-FROM openlistteam/openlist:latest
+FROM openlistteam/openlist:beta
