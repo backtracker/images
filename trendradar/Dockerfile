@@ -1,0 +1,1 @@
+FROM wantcat/trendradar:latest
