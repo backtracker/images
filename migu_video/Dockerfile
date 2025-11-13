@@ -1,0 +1,1 @@
+FROM develop767/migu_video:latest
