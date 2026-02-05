@@ -1,0 +1,1 @@
+FROM ignisda/ryot:latest
