@@ -1,0 +1,1 @@
+FROM ghcr.io/mtvpls/moontvplus:latest
