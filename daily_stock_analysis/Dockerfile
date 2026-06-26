@@ -1,0 +1,1 @@
+FROM zhulinsen/daily_stock_analysis:latest
