@@ -1,0 +1,1 @@
+FROM docker.io/valkey/valkey:9-alpine
