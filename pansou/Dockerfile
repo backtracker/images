@@ -1,1 +1,1 @@
-FROM ghcr.io/fish2018/pansou:latest
+FROM ghcr.io/fish2018/pansou-web:latest
