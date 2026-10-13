@@ -1,1 +1,1 @@
-FROM jxxghp/moviepilot-v2:latest
+FROM jxxghp/moviepilot-v3:latest
