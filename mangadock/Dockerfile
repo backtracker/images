@@ -1,0 +1,1 @@
+FROM dddinmx/mangadock:latest
